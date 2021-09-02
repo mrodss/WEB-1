@@ -1,0 +1,40 @@
+/* Arquivo de CSS */
+
+body {
+	font-family: 'Helvetica', sans-serif;
+	font-size:2em;
+}
+
+section {
+	width:100%;
+	margin:auto;
+}
+
+aside {
+	width:30%;
+	height:600px;
+	background:#D2691E;
+	float:left;
+}
+
+nav {
+	width:70%;
+	height:50px;
+	background:#DEB887;
+	float:right;
+}
+
+main {
+	width:70%;
+	height:500px;
+	float:right;
+	background:#FFA500;
+}
+
+footer {
+	width:70%;
+	height:50px;
+	float:right;
+	background:#DEB887;
+}
+	
